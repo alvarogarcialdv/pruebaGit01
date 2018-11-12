@@ -2,4 +2,4 @@
 
 Servicios de Red e Internet
 
-We are going to work with many programming languajes 
+Vamos a trabajar con muchos lenguajes de programación en este módulo profesional
